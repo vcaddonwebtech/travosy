@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+#Instruction files
+folderStructure.txt
+tagline.jsx
