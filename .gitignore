@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 #Instruction files
 folderStructure.txt
-tagline.jsx
+demotagline.jsx
