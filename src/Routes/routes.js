@@ -1,4 +1,5 @@
 import { Children } from "react";
+import { Search } from "lucide-react";
 
 const routes = [
   {
@@ -20,8 +21,9 @@ const routes = [
   },
 
   {
-    label: "Contact",
+    label: "Contact Us",
     path: "/contact",
   },
+ 
 ];
 export default routes
