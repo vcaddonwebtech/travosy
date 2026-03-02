@@ -5,11 +5,11 @@ function App() {
   return (
     <>
     
-      <BrowserRouter>
+  
         <Routes>
           <Route path="/" element={<Tagline />} />
         </Routes>
-      </BrowserRouter>
+      
       <Navbar/>
       
     </>
